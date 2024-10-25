@@ -1,5 +1,3 @@
-// José Castañeda - 1534422
-
 export class Product {
     constructor(
         public code: string,
