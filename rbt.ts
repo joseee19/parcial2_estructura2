@@ -1,5 +1,5 @@
-import { Product } from "./node_rbt"; // Asegúrate de que la ruta sea correcta
-import { NodeRBT } from "./node_rbt"; // Asegúrate de que la ruta sea correcta
+import { Product } from "./node_rbt";
+import { NodeRBT } from "./node_rbt";
 
 class RBTree {
     private root: NodeRBT;
@@ -165,7 +165,7 @@ class RBTree {
     }
 }
 
-// Ejemplo de uso
+
 const priceManager = new RBTree();
 
 // Insertar productos
